@@ -1,0 +1,5 @@
+force CLK 0 0ms , 1 0.5ms -repeat 1ms
+force RESET 0
+force Start 1 
+force Mode 2'b11
+run 10000ms

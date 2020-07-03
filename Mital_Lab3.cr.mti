@@ -1,0 +1,43 @@
+C:/Users/rmita/Desktop/EE460M/Mital_Lab3/Fitbit_Top.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab3/Fitbit_Top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Fitbit_Top
+
+Top level modules:
+	Fitbit_Top
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab3/PulseGenerator.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab3/PulseGenerator.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PulseGenerator
+
+Top level modules:
+	PulseGenerator
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab3/High_Activity.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab3/High_Activity.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module High_activity_64
+
+Top level modules:
+	High_activity_64
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab3/divider2.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab3/divider2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module divider
+
+Top level modules:
+	divider
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab3/divider_min.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab3/divider_min.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module divider_min
+
+Top level modules:
+	divider_min
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab3/Steps_over_32.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab3/Steps_over_32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Steps_Over_32
+
+Top level modules:
+	Steps_Over_32
+
+} {} {}}
